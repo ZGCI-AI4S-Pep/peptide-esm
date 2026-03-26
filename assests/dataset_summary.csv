@@ -1,0 +1,5 @@
+dataset,sequence_count,residue_count,min_length,median_length,mean_length,std_length,p95_length,p99_length,max_length
+unism,3157531,119912483,1,41,37.98,11.01,50,50,50
+uniref,2672904,107771785,2,42,40.32,8.74,50,50,50
+uniref50,1932360,76692615,11,41,39.69,8.68,50,50,50
+smprot,484627,12140698,1,24,25.05,13.07,47,50,50

@@ -27,7 +27,7 @@ The project is designed as a **small, reproducible tutorial** that walks through
 ├── preprocessing.py          # Train/validation split utility
 └── run_mlm.py                # MLM training entry point
 ```
-
+official checkpoint: https://huggingface.co/jiahuizhang/esm-150m-peptide-fine-tune
 ## 1. Environment Setup
 
 Create the conda environment from the pinned specification:
